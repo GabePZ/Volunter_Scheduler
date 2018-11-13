@@ -3,8 +3,8 @@ Automated volunteer schedule for use by Yosemite National Park volunteer coordin
 
 ## Dependencies
 * Python 3 
-- Pandas
-- xlwings)
+  * Pandas
+  * xlwings)
 * Excel
 
 ## Setup
