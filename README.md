@@ -1,2 +1,6 @@
 # Volunter_Scheduler
-Volunteer Scheduler for Yosemite National Park volunteer cooridinator staff
+Automated volunteer schedule for use by Yosemite National Park volunteer coordinator staff.
+
+##Dependencies
+Python 3 (Pandas, xlwings)
+Excel
