@@ -10,7 +10,7 @@ Automated volunteer schedule for use by Yosemite National Park volunteer coordin
 ## Setup
 * Install the required dependencies.<br />
   * Install and setup the latest version of [Python3](https://www.python.org/downloads/). <br />
-  * Install pip and xlwings for your version of Python3. [(How to install packages)](https://packaging.python.org/tutorials/installing-packages/)
+  * Install pandas and xlwings for your version of Python3. [(How to install packages)](https://packaging.python.org/tutorials/installing-packages/)
 * Download the Volunteer_Scheduler.py and Volunteer_Scheduler.xlsm and place them within the same folder.
 
 ## Usage
