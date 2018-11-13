@@ -7,5 +7,5 @@ Python 3 (Pandas, xlwings);
 Excel
 
 ## Setup
-0. Install the required dependencies.\n
+0. Install the required dependencies.<br />
   0.1: Install and setup the latest version of [Python3](https://www.python.org/downloads/). 
